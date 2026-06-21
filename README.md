@@ -61,7 +61,7 @@ Ships cannot touch each other, even diagonally.
 **1. Clone the repository**
  
 ```bash
-git clone https://github.com/Kotelaa/Sea-Battle.git
+git clone https://github.com/Kotelaa/sea_battle
 cd Sea-Battle
 ```
  
